@@ -4,6 +4,11 @@
 var questionCount = 0;
 var result1Score = 0;
 
+ var You are a very outgoing and a comprehensive person = 0;
+  var You are a very outgoing and critically thinking person= 0;
+  var  = 0;
+  var ravenclawScore = 0;
+
 
 
 

@@ -45,8 +45,15 @@ var q1a4 = document.getElementById("q5a4");
 
 
 //#TODO: Add Event Listeners to your answer choice variables.
-q1a1.addEventListener("click", result1);
+q1a1.addEventListener("click", New York);
+q1a2.addEventListener("click", Paris);
+q1a3.addEventListener("click", Sydney);
+q1a4.addEventListener("click", Zurich);
 
+ q2a1.addEventListener("click", Beach);
+  q2a2.addEventListener("click", ravenclaw);
+  q2a3.addEventListener("click", hufflepuff);
+  q2a4.addEventListener("click", gryffindor);
 
 
 

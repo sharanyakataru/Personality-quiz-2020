@@ -51,18 +51,49 @@ q1a3.addEventListener("click", Sydney);
 q1a4.addEventListener("click", Zurich);
 
  q2a1.addEventListener("click", Beach);
-  q2a2.addEventListener("click", ravenclaw);
-  q2a3.addEventListener("click", hufflepuff);
-  q2a4.addEventListener("click", gryffindor);
+  q2a2.addEventListener("click", City);
+  q2a3.addEventListener("click", Mountains);
+  q2a4.addEventListener("click", Home);
 
+ q3a1.addEventListener("click", Dark);
+  q3a2.addEventListener("click", Heights);
+  q3a3.addEventListener("click", People;
+  q3a4.addEventListener("click", Animals/Insects);
+
+ q4a1.addEventListener("click", Party);
+  q4a2.addEventListener("click", Going to a resturant);
+  q4a3.addEventListener("click", Beign alone);
+  q4a4.addEventListener("click", Beign home);
+
+ q5a1.addEventListener("click", Math);
+  q5a2.addEventListener("click", Science);
+  q5a3.addEventListener("click", English);
+  q5a4.addEventListener("click", Social Studies);
 
 
 
 
 
 //#TODO: Define quiz functions here
-function result1(){
-  
-  
-  
+  function New York() {
+  gryffindorScore += 1;
+  questionCount += 1;
 }
+
+function Paris() {
+  ravenclawScore += 1;
+  questionCount += 1;
+}
+
+function Sydney() {
+  slytherinScore += 1;
+  questionCount += 1;
+}
+
+function Zurich() {
+  hufflepuffScore += 1;
+  questionCount += 1;
+}
+  
+  
+  

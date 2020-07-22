@@ -79,24 +79,36 @@ q1a4.addEventListener("click", Zurich);
   newyorkScore += 1;
   questionCount += 1;
     alert("One Point to you are very outgoing and comprehensive person" );
+    if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Paris() {
   parisScore += 1;
   questionCount += 1;
       alert("One Point to you are a very outgoing and critically thinking person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Sydney() {
   sydneyScore += 1;
   questionCount += 1;
   alert("One Point to you are a very reserved and a critically thinking person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Zurich() {
   zurichScore += 1;
   questionCount += 1;
   alert("One Point to you are a very reserved and a comprehensive person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 
@@ -104,49 +116,73 @@ function Beach() {
   beachScore += 1;
   questionCount += 1;
   alert("One Point to you are very outgoing and comprehensive person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function City() {
   cityScore += 1;
   questionCount += 1;
   alert("One Point to you are a very outgoing and critically thinking person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Mountains() {
   mountainsScore += 1;
   questionCount += 1;
-  alert("One Point to ");
+  alert("One Point to you are a very reserved and a critically thinking person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Home() {
   homeScore += 1;
   questionCount += 1;
-  alert("One Point to ");
+  alert("One Point to you are a very reserved and a comprehensive person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
   
 
 function Dark() {
   darkScore += 1;
   questionCount += 1;
-  alert("One Point to ");
+  alert("One Point to you are a very reserved and a comprehensive person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Heights() {
   heightsScore += 1;
   questionCount += 1;
   alert("One Point to you are very outgoing and comprehensive person ");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function People() {
   peopleScore += 1;
   questionCount += 1;
-  alert("One Point to ");
+  alert("One Point to you are a very reserved and a critically thinking person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Animals/Insects() {
   animals/insectsScore += 1;
   questionCount += 1;
   alert("One Point to you are a very outgoing and critically thinking person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 
@@ -154,24 +190,36 @@ function Party() {
   partyScore += 1;
   questionCount += 1;
   alert("One Point to you are very outgoing and comprehensive person ");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Going to a resturant() {
   goingtoaresturantScore += 1;
   questionCount += 1;
   alert("One Point to you are a very outgoing and critically thinking person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Beign Alone() {
   beignaloneScore += 1;
   questionCount += 1;
-  alert("One Point to ");
+  alert("One Point to you are a very reserved and a critically thinking person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Beign Home() {
   beignhomeScore += 1;
   questionCount += 1;
-  alert("One Point to ");
+  alert("One Point to you are a very reserved and a comprehensive person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
   
 
@@ -180,23 +228,35 @@ function Math() {
   mathScore += 1;
   questionCount += 1;
   alert("One Point to you are very outgoing and comprehensive person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Science() {
   scienceScore += 1;
   questionCount += 1;
   alert("One Point to you are a very outgoing and critically thinking person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function English() {
   englishScore += 1;
   questionCount += 1;
-  alert("One Point to ");
+  alert("One Point to you are a very reserved and a comprehensive person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
 
 function Social Studies() {
   socialstudiesScore += 1;
   questionCount += 1;
-  alert("One Point to you are very outgoing and comprehensive person");
+  alert("One Point to you are a very reserved and a critically thinking person");
+  if (questionCount >= 5){
+      updateResult();
+  }
 }
   

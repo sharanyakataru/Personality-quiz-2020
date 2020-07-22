@@ -45,6 +45,8 @@ var q1a4 = document.getElementById("q5a4");
 
 
 //#TODO: Add Event Listeners to your answer choice variables.
+element.addEventListener(event, function);
+
 q1a1.addEventListener("click", New York);
 q1a2.addEventListener("click", Paris);
 q1a3.addEventListener("click", Sydney);
@@ -262,20 +264,20 @@ function Social Studies() {
   
 
 function updateResult(){
-  if (you are a very reserved and a critically thinking personScore>= 2){
-result.innerHTML = "you are a very reserved and a critically thinking person!";
+  if (you are a very reserved and a critically thinking personScore>= 3){
+result.innerHTML = "you are a very reserved and a critically thinking person";
  }
- else if(you are a very reserved and a comprehensive personScore >=2){
-result.innerHTML = "Gryffindor!";
+ else if(you are a very reserved and a comprehensive personScore >=3){
+result.innerHTML = "you are a very reserved and a comprehensive person";
  }
- else if(you are a very outgoing and critically thinking personScore >=2){
-result.innerHTML = "Gryffindor!";
+ else if(you are a very outgoing and critically thinking personScore >=3){
+result.innerHTML = "you are a very outgoing and critically thinking person";
  }
- else if (you are a very outgoing and comprehensive personScore>= 2){
-result.innerHTML = "Gryffindor!";
+ else if (you are a very outgoing and comprehensive personScore>= 3){
+result.innerHTML = "you are a very outgoing and comprehensive person";
  }
  else{
-result.innerHTML = "Gryffindor!";
+  result.innerHTML = "You are a person with many qualities. Outgoing at times and reserves at others. You use your knowledge well, beign comprehensive and a critical thinker at times.";
  }
 
 }

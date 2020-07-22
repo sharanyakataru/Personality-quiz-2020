@@ -76,24 +76,107 @@ q1a4.addEventListener("click", Zurich);
 
 //#TODO: Define quiz functions here
   function New York() {
-  gryffindorScore += 1;
+  newyorkScore += 1;
   questionCount += 1;
 }
 
 function Paris() {
-  ravenclawScore += 1;
+  parisScore += 1;
   questionCount += 1;
 }
 
 function Sydney() {
-  slytherinScore += 1;
+  sydneyScore += 1;
   questionCount += 1;
 }
 
 function Zurich() {
-  hufflepuffScore += 1;
+  zurichScore += 1;
+  questionCount += 1;
+}
+
+
+function Beach() {
+  beachScore += 1;
+  questionCount += 1;
+}
+
+function City() {
+  cityScore += 1;
+  questionCount += 1;
+}
+
+function Mountains() {
+  mountainsScore += 1;
+  questionCount += 1;
+}
+
+function Home() {
+  homeScore += 1;
   questionCount += 1;
 }
   
+
+function Dark() {
+  darkScore += 1;
+  questionCount += 1;
+}
+
+function Heights() {
+  heightsScore += 1;
+  questionCount += 1;
+}
+
+function People() {
+  peopleScore += 1;
+  questionCount += 1;
+}
+
+function Animals/Insects() {
+  animals/insectsScore += 1;
+  questionCount += 1;
+}
+
+
+function Party() {
+  partyScore += 1;
+  questionCount += 1;
+}
+
+function Going to a resturant() {
+  goingtoaresturantScore += 1;
+  questionCount += 1;
+}
+
+function Beign Alone() {
+  beignaloneScore += 1;
+  questionCount += 1;
+}
+
+function Beign Home() {
+  beignhomeScore += 1;
+  questionCount += 1;
+}
   
+
+
+function Math() {
+  mathScore += 1;
+  questionCount += 1;
+}
+
+function Science() {
+  scienceScore += 1;
+  questionCount += 1;
+}
+
+function English() {
+  englishScore += 1;
+  questionCount += 1;
+}
+
+function Social Studies() {
+  socialstudiesScore += 1;
+  questionCount += 1;
+}
   

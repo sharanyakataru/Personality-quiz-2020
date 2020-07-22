@@ -260,3 +260,22 @@ function Social Studies() {
   }
 }
   
+
+function updateResult(){
+  if (you are a very reserved and a critically thinking personScore>= 2){
+result.innerHTML = "you are a very reserved and a critically thinking person!";
+ }
+ else if(you are a very reserved and a comprehensive personScore >=2){
+result.innerHTML = "Gryffindor!";
+ }
+ else if(you are a very outgoing and critically thinking personScore >=2){
+result.innerHTML = "Gryffindor!";
+ }
+ else if (you are a very outgoing and comprehensive personScore>= 2){
+result.innerHTML = "Gryffindor!";
+ }
+ else{
+result.innerHTML = "Gryffindor!";
+ }
+
+}

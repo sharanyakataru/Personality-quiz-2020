@@ -1,13 +1,22 @@
 //Global Variables
 //This is where you will define the variables you will be using in your project.
 //#TODO: Create four variables to track each possible quiz outcome
+//Hi Sharanya! Ok so you will need to make 
+//variables that match the names of your functions 
+//I commented out lines 11-14 becuase they are not variables.
+//variables names can not have spaces. 
+//you also will need to 
+put in 
 var questionCount = 0;
 var result1Score = 0;
+var result2Score = 0;
+var result3Score = 0;
+var result4Score = 0;
 
- var You are a very outgoing and a comprehensive person = 0;
-  var You are a very outgoing and critically thinking person= 0;
-  var You are a very reserved and critically thinking person = 0;
-  var You are a very reserved and a comprehensive person= 0;
+ // var result1 You are a very outgoing and a comprehensive person = 0;
+ //  var result 2 ou are a very outgoing and critically thinking person= 0;
+ //  var result3 You are a very reserved and critically thinking person = 0;
+ //  var result4You are a very reserved and a comprehensive person= 0;
 
 
 
@@ -47,7 +56,7 @@ var q1a4 = document.getElementById("q5a4");
 //#TODO: Add Event Listeners to your answer choice variables.
 element.addEventListener(event, function);
 
-q1a1.addEventListener("click", New York);
+q1a1.addEventListener("click", result1);
 q1a2.addEventListener("click", Paris);
 q1a3.addEventListener("click", Sydney);
 q1a4.addEventListener("click", Zurich);
@@ -77,7 +86,7 @@ q1a4.addEventListener("click", Zurich);
 
 
 //#TODO: Define quiz functions here
-  function New York() {
+  function result1() {
   newyorkScore += 1;
   questionCount += 1;
     alert("One Point to you are very outgoing and comprehensive person" );

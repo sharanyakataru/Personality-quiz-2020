@@ -56,29 +56,29 @@ var q5a4 = document.getElementById("q5a4");
 // element.addEventListener(event, function);
 
 q1a1.addEventListener("click", result1);
-q1a2.addEventListener("click", result3);
-q1a3.addEventListener("click", result2);
+q1a2.addEventListener("click", result2);
+q1a3.addEventListener("click", result3);
 q1a4.addEventListener("click", result4);
 
- q2a1.addEventListener("click", result2);
-  q2a2.addEventListener("click", result3);
-  q2a3.addEventListener("click", result1);
+ q2a1.addEventListener("click", result1);
+  q2a2.addEventListener("click", result2);
+  q2a3.addEventListener("click", result3);
   q2a4.addEventListener("click", result4);
 
- q3a1.addEventListener("click", Dark);
-  q3a2.addEventListener("click", Heights);
-  q3a3.addEventListener("click", People;
-  q3a4.addEventListener("click", Animals/Insects);
+ q3a1.addEventListener("click", result4);
+  q3a2.addEventListener("click", result1);
+  q3a3.addEventListener("click", result3);
+  q3a4.addEventListener("click", result2);
 
- q4a1.addEventListener("click", Party);
-  q4a2.addEventListener("click", Going to a resturant);
-  q4a3.addEventListener("click", Beign alone);
-  q4a4.addEventListener("click", Beign home);
+ q4a1.addEventListener("click", result1);
+  q4a2.addEventListener("click", result2);
+  q4a3.addEventListener("click", result3);
+  q4a4.addEventListener("click", result4);
 
- q5a1.addEventListener("click", Math);
-  q5a2.addEventListener("click", Science);
-  q5a3.addEventListener("click", English);
-  q5a4.addEventListener("click", Social Studies);
+ q5a1.addEventListener("click", result1);
+  q5a2.addEventListener("click", result2);
+  q5a3.addEventListener("click", result4);
+  q5a4.addEventListener("click", result3);
 
 
 //write functions for result1, result2, result3, result4
